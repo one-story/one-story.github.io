@@ -1,0 +1,33 @@
+logos
+
+slide 1 - liquid love
+
+bg #f2172b
+color #83111c
+
+‘Liquid love’ is a BPO for blood donations & requests.It’s a joint initiative of Jeevan blood bank & Trayee which is yet to go on floors
+
+slide - green pantry
+
+‘Green Pantry’ is an organic, vegetarian kitchen concept based out of Bangalore.Check out the sweet, little website designed by another friend.
+color #272727 opacity 21%
+
+
+slide - extra edge
+
+bg #d8d8d8
+color #5d5d5d
+Identity design concept for an analytics product of Sportsmechanics.This hasn’t been implemented yet.
+
+slide ideamani
+
+‘Idea Mani’ is an incubation & consultant startup with food industry as it’s niche.
+
+opacity 18%
+color #ffffff
+
+slide him and her
+
+bg #f4f4f4
+color #888888
+‘Him & Her’ is a premium, formal party wear boutique concept which didn’t happen.

@@ -1,0 +1,32 @@
+destination bpo
+
+opening slides
+
+bg #e0e0e0
+color #666666
+
+‘Destination BPO’ is a school for BPO training. It’s an initiative of Trayee which is yet to go on floors.
+
+
+slide 2
+
+bg #061316
+color #3b3b3a
+
+slide 3
+
+bg #e0e0e0
+heading green #256c7d
+
+Philosophically, The impact of any communication lies on how you start a statement and most importantly on where you end it. Its this communication that shaped the better part of the world. Thus evolved, the idea of using Open & Close quotes to decorate the Circle.
+
+Denotes communication, conversation,message on a passive note.
+
+Denotes World, Entity & Wholeness
+
+Or simply, (#666)
+
+
+slide 4
+
+bg #061316

@@ -1,0 +1,21 @@
+cmtv
+
+slide 1
+
+bg #d6d6d6
+color #828181
+
+Cricketmentor is an online coaching concept by Sportsmechanics. With the business & marketinggoing completely virtual we ditched vector, minimal, sustainable & all boring stuff attached to a logo design and went over board making a one 3D.
+
+slide 2
+
+heading #e40d0e
+color #969696
+
+Construction
+
+It’s a concept where aspiring cricketers can register themselves, upload a cricketing videoof their’s & connect with experts in the network to get feedback & mentorship.
+
+Under Construction
+Amidst a lot of pre-launch campaign plans we decided to make the under-construction page a little interesting. Brought in a 3D artist to work with us for a couple of days to get this done.
+

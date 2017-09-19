@@ -1,0 +1,60 @@
+slide 1
+
+bg #f21717
+content dark #aa1313
+heading light #e9e9e9
+
+Objective
+clean . sophisticated . sportyno ambiguity . make it short
+
+------------------------------------------
+
+slide 2
+
+bg #313131
+heading red #e60a0a
+content #6d6d6d
+
+
+-----------------------------------------
+
+slide 3 (about)
+bg #cbcbcb
+heading color #7e7e7e
+
+Parallax section
+
+bg #131313
+heading red #ff0b0b
+content grey #969696
+
+Floating Elements & Parallax
+We happily played gimmicky with this site.The particles scattered across the pages are meant to floating, changing shapes, rotating and so on.And as we scroll, the background moves in the opposite direction of the foreground elements.
+
+More section
+
+bg #f2f2f2
+content grey #969696
+heading red #e53d3d
+
+More of more...
+After the first draft of designs were ready we spotted a lot of ‘more’ buttons which looked boring & monotonous.And thus we solved!
+
+News section
+content grey #6d6d6d
+News comes with 2 sections ‘Videos’ & ‘Print/Web’. It’s horizontal scrolling with items listed in reverse chronology from left to right
+
+
+
+
+labs section
+
+bg #1b1b1b
+heading red #f01615
+content grey #6d6d6d
+
+Labs
+Research is a new division of Sportsmechanics and a greater vision.It’s a matter of passion and we hit a serious tone whenver we speak about it.So how do you do it here in a website? We said ‘lets change the tone.’
+
+End slide
+bg #f21717
